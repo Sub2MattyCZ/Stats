@@ -154,6 +154,217 @@
             }
         ]
     },
+        "Withered Gold Freddy": {
+        "Type": "Cone AOE",
+        "Image": "rbxassetid://109539336386016",
+        "Rarity": "Epic",
+        "PlacePrice": 600,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 200,
+                "Bleed": 0.3,
+                "BleedTime": 0.3,
+                "Slow": 0.7,
+                "SlowTime": 1,
+                "Cooldown": 0.4
+            },
+            {
+                "Price": 800,
+                "Range": 24,
+                "Damage": 300,
+                "Bleed": 0.3,
+                "BleedTime": 0.3,
+                "Slow": 0.7,
+                "SlowTime": 1,
+                "Cooldown": 0.4
+            },
+            {
+                "Price": 1000,
+                "Range": 25,
+                "Damage": 350,
+                "Bleed": 0.3,
+                "BleedTime": 1,
+                "Slow": 0.7,
+                "SlowTime": 1,
+                "Cooldown": 0.4
+            },
+            {
+                "Price": 1200,
+                "Range": 27,
+                "Damage": 480,
+                "Bleed": 0.3,
+                "BleedTime": 1,
+                "Slow": 0.7,
+                "SlowTime": 1,
+                "Cooldown": 0.4
+            }
+        ]
+    },
+      "Withered Gold Foxy": {
+        "Type": "AOE & Splash",
+        "Image": "rbxassetid://115098466737426",
+        "Rarity": "Mythic",
+        "PlacePrice": 600,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 500,
+                "Cooldown": 0.4
+            },
+            {
+                "Price": 750,
+                "Range": 24,
+                "Damage": 650,
+                "Cooldown": 0.4
+            },
+            {
+                "Price": 1525,
+                "Range": 25,
+                "Damage": 800,
+                "Cooldown": 0.4
+            },
+            {
+                "Price": 3000,
+                "Range": 27,
+                "Damage": 1000,
+                "Cooldown": 0.4
+            }
+        ]
+    },
+      "Withered Gold Balloon Boy": {
+        "Type": "Splash + Dual Booster",
+        "Image": "rbxassetid://118002617330986",
+        "Rarity": "Secret",
+        "PlacePrice": 250,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 31,
+                "Damage": 250,
+                "Cooldown": 0.4
+            },
+            {
+                "Price": 1000,
+                "Range": 33,
+                "Damage": 300,
+                "Cooldown": 0.4
+            },
+            {
+                "Price": 1500,
+                "Range": 35,
+                "Damage": 450,
+                "Cooldown": 0.2
+            },
+            {
+                "Price": 2750,
+                "Range": 40,
+                "Damage": 845,
+                "Cooldown": 0.2
+            }
+        ]
+    },
+          "Withered Gold Bonnie": {
+        "Type": "Aoe + Stun + Splash + Burn + Poison",
+        "Image": "rbxassetid://103142681596020",
+        "Rarity": "Secret",
+        "PlacePrice": 250,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 40,
+                "Damage": 500,
+                "Cooldown": 0.2
+            },
+            {
+                "Price": 5000,
+                "Range": 45,
+                "Damage": 1000,
+                "Cooldown": 0.2
+            },
+            {
+                "Price": 15000,
+                "Range": 47,
+                "Damage": 1500,
+                "Cooldown": 0.2
+            },
+            {
+                "Price": 27500,
+                "Range": 35,
+                "Damage": 3000,
+                "Cooldown": 0.1
+            }
+        ]
+    },
+       "Withered Diamond Freddy": {
+        "Type": "...",
+        "Image": "rbxassetid://78488240930324",
+        "Rarity": "Apex",
+        "PlacePrice": 5000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 35,
+                "Damage": 5000,
+                "Cooldown": 0.2
+            },
+            {
+                "Price": 7000,
+                "Range": 55,
+                "Damage": 6666,
+                "Cooldown": 0.2
+            },
+            {
+                "Price": 50000,
+                "Range": 35,
+                "Damage": 450,
+                "Cooldown": 0.2
+            },
+            {
+                "Price": 16000,
+                "Range": 45,
+                "Damage": 8545,
+                "Cooldown": 0.1
+            }
+        ]
+    },
     "Withered Chica": {
         "Type": "Single",
         "Image": "rbxassetid://16632209265",
