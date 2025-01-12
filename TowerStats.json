@@ -7021,6 +7021,39 @@
             }
         ]
     },
+      "Righty": {
+        "Type": "Nuke + Poison Slash",
+        "Image": "rbxassetid://122303741019708",
+        "Rarity": "Nightmare",
+        "PlacePrice": 12500,
+        "Offset": 0,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 7500,
+                "Cooldown": 2
+            },
+            {
+                "Price": 20000,
+                "Range": 20,
+                "Damage": 8888,
+                "Cooldown": 1
+            },
+            {
+                "Price": 35000,
+                "Range": 30,
+                "Damage": 10000,
+                "Cooldown": 0.5
+            }
+        ]
+    },
     "Rockstar Freddy": {
         "Type": "Splash",
         "Image": "rbxassetid://115841320633400",
