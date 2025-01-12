@@ -7021,6 +7021,51 @@
             }
         ]
     },
+    "Righty": {
+        "Type": "AOE + Summon",
+        "Image": "rbxassetid://71854603701229",
+        "Rarity": "Nightmare",
+        "PlacePrice": 10000,
+        "Offset": 0,
+        "Max": 2,
+        "Passive": {"Name": "Puppet", "Description": "Summons crying souls that are equal to 100x this units damage."},
+        "NoEnemyAttack": true,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 275,
+                "Unit": {"Haunted Soul": 1},
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 20000,
+                "Range": 24,
+                "Damage": 350,
+                "Unit": {"Haunted Soul": 1},
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 30000,
+                "Range": 27,
+                "Damage": 450,
+                "Unit": {"Haunted Soul": 1},
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 40000,
+                "Range": 30,
+                "Damage": 500,
+                "Unit": {"Haunted Soul": 1},
+                "Cooldown": 0.1
+            }
+        ]
+    },
     "Rockstar Freddy": {
         "Type": "Splash",
         "Image": "rbxassetid://115841320633400",
