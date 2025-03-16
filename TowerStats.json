@@ -5541,53 +5541,52 @@
             "Z": 0
         },
         "Upgrades": [
-            {
-                "Price": 0,
+            {   
+"Price": 0,
                 "Range": 25,
                 "Damage": 800,
                 "Cooldown": 0.4,
                 "SummonTime": 30,
-                "Unit": "Fazbear Mafia Car",
+                "Health": 1500,
                 "WalkSpeed": 15,
-                "SummonRange": 25,
-                "SummonCooldown": 0.2
-            },
-            {
-                "Price": 12000,
+                "Unit": "Fazbear Mafia Car",
+                "Offset": -1.5
+ },
+ {
+   "Price": 12000,
                 "Range": 28,
                 "Damage": 1000,
                 "Cooldown": 0.4,
                 "SummonTime": 30,
-                "Unit": "Fazbear Mafia Car",
+                "Health": 2500,
                 "WalkSpeed": 15,
-                "SummonRange": 25,
-                "SummonCooldown": 0.2
-            },
-            {
-                "Price": 16000,
-                "Range": 32,
+                "Unit": "Fazbear Mafia Car",
+                "Offset": -1.5
+ },
+ {
+   "Price": 16000,
+                "Range": 35,
                 "Damage": 1200,
                 "Cooldown": 0.4,
                 "SummonTime": 30,
-                "Unit": "Fazbear Mafia Car",
+                "Health": 3500,
                 "WalkSpeed": 15,
-                "SummonRange": 25,
-                "SummonCooldown": 0.2
-            },
-            {
-                "Price": 20000,
+                "Unit": "Fazbear Mafia Car",
+                "Offset": -1.5
+ },
+ {
+   "Price": 16000,
                 "Range": 35,
-                "Damage": 1400,
+                "Damage": 1200,
                 "Cooldown": 0.4,
                 "SummonTime": 30,
-                "Unit": "Fazbear Mafia Car",
+                "Health": 5000,
                 "WalkSpeed": 15,
-                "SummonRange": 25,
-                "SummonCooldown": 0.2
-            }
+                "Unit": "Fazbear Mafia Car",
+                "Offset": -1.5
+           }
         ]
     },
-
     "Boombox Foxy": {
         "Type": "AOE Slow and Booster",
         "Image": "rbxassetid://122976176441685",
