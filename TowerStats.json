@@ -501,6 +501,45 @@
             }
         ]
     },
+     "Logbook Chica": {
+        "Type": "Shock",
+        "Image": "rbxassetid://83742629584330",
+        "Rarity": "Secret",
+        "PlacePrice": 15000,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": -0.2,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 17,
+                "Damage": 150,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 17500,
+                "Range": 20,
+                "Damage": 200,
+                "Cooldown": 1.25
+            },
+            {
+                "Price": 20000,
+                "Range": 22,
+                "Damage": 250,
+                "Cooldown": 1
+            },
+            {
+                "Price": 25000,
+                "Range": 25,
+                "Damage": 300,
+                "Cooldown": 0.75
+            }
+        ]
+    },
     "Shadow Freddy": {
         "Type": "AOE",
         "Image": "rbxassetid://82484270991649",
