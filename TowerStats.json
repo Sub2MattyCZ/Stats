@@ -1091,6 +1091,53 @@
             }
         ]
     },
+    "Freddy Frostbear": {
+        "Type": "Slow + Splash",
+        "Image": "rbxassetid://117594851686564",
+        "Rarity": "Secret",
+        "PlacePrice": 12500,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": -0.5,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 200,
+                "Cooldown": 1,
+                "Slow": 0.70,
+                "SlowTime": 1
+            },
+            {
+                "Price": 17000,
+                "Range": 22,
+                "Damage": 250,
+                "Cooldown": 1,
+                "Slow": 0.70,
+                "SlowTime": 1
+            },
+            {
+                "Price": 23000,
+                "Range": 23,
+                "Damage": 300,
+                "Cooldown": 1,
+                "Slow": 0.7,
+                "SlowTime": 1
+            },
+            {
+                "Price": 25000,
+                "Range": 25,
+                "Damage": 300,
+                "Cooldown": 0.8,
+                "Slow": 0.6,
+                "SlowTime": 1
+            }
+        ]
+    },
     "Coco Boy": {
         "Type": "Explosion",
         "Image": "rbxassetid://18256042312",
@@ -1462,7 +1509,7 @@
             }
         ]
     },
-    "Phantom Foxy": {
+     "Phantom Foxy": {
         "Type": "Single",
         "Image": "rbxassetid://18356274992",
         "Rarity": "Rare",
@@ -1496,6 +1543,44 @@
                 "Price": 3000,
                 "Range": 20,
                 "Damage": 200,
+                "Cooldown": 0.75
+            }
+        ]
+    },
+    "Gingerbread Foxy": {
+        "Type": "Single",
+        "Image": "rbxassetid://116821958774223",
+        "Rarity": "Mythic",
+        "PlacePrice": 300,
+        "Max": 4,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 10,
+                "Damage": 30,
+                "Cooldown": 1
+            },
+            {
+                "Price": 600,
+                "Range": 12,
+                "Damage": 40,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1000,
+                "Range": 15,
+                "Damage": 65,
+                "Cooldown": 0.75
+            },
+            {
+                "Price": 1500,
+                "Range": 15,
+                "Damage": 100,
                 "Cooldown": 0.75
             }
         ]
