@@ -192,6 +192,82 @@
             }
         ]
     },
+     "Xiao": {
+        "Type": "E-Goth Little Girls",
+        "Image": "rbxassetid://75748936875023",
+        "Rarity": "Nightmare",
+        "PlacePrice": 200,
+        "Max": 69,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 50000,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 1200,
+                "Range": 24,
+                "Damage": 75000,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 1500,
+                "Range": 30,
+                "Damage": 100000,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 2500,
+                "Range": 30,
+                "Damage": 125000,
+                "Cooldown": 0.1
+            }
+        ]
+    },
+        "Evil Captiane Bonnie": {
+        "Type": "E-Goth Bonnie Blue Girls",
+        "Image": "rbxassetid://75748936875023",
+        "Rarity": "Nightmare",
+        "PlacePrice": 200,
+        "Max": 69,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 5000,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 1200,
+                "Range": 24,
+                "Damage": 7500,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 1500,
+                "Range": 30,
+                "Damage": 10000,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 2500,
+                "Range": 30,
+                "Damage": 12500,
+                "Cooldown": 0.1
+            }
+        ]
+    },
     "Withered Foxy": {
         "Type": "Dual",
         "Image": "rbxassetid://132271627014074",
